@@ -1,9 +1,4 @@
-# Emergency-room-dashboard
-An interactive Tableau dashboard analyzing emergency room patient flow, wait times, and resource utilization to improve healthcare efficiency.
-
-## Emergency Room Dashboard in Tableau
-
-🚑 Healthcare Data Analyst Portfolio Project
+🚑 Healthcare Data Analyst Portfolio Project - An interactive Tableau dashboard analyzing emergency room patient flow, wait times, and resource utilization to improve healthcare efficiency.
 
 ## Project Overview:
 
