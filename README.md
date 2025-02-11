@@ -1,4 +1,4 @@
-🚑 Healthcare Data Analyst Portfolio Project - An interactive Tableau dashboard analyzing emergency room patient flow, wait times, and resource utilization to improve healthcare efficiency.
+# 🚑 Healthcare Data Analyst Portfolio Project - An interactive Tableau dashboard analyzing emergency room patient flow, wait times, and resource utilization to improve healthcare efficiency.
 
 ## Project Overview:
 
