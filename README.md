@@ -8,8 +8,11 @@ This project focuses on building an Emergency Room (ER) Dashboard using Tableau 
 ## Key Features:
 
 Patient Flow Analysis – Tracks ER admissions, discharges, and patient waiting times.
+
 Capacity Utilization – Monitors bed occupancy and staff availability.
+
 Time-to-Treatment Analysis – Identifies delays in treatment and potential bottlenecks.
+
 Demographic Insights – Breaks down patient data by age, gender, and diagnosis.
 
 ## Technologies Used:
